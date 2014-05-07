@@ -4,3 +4,11 @@ $navbar-inverse-link-color: white;
 $brand-primary: black;
 
 @import 'bootstrap';
+
+.center {
+	text-align:center;
+}
+
+.navbar-brand {
+	font-weight:bold;
+}
